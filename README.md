@@ -2,5 +2,6 @@
 Server-side check form element only write "name" attribute.
 
 > You include functions.php and use newRegister function.
-> You must first use repeat 
+
+> You must first using repeat attribute. 
 
